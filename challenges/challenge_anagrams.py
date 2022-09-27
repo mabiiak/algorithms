@@ -8,7 +8,7 @@ def is_anagram(first_string, second_string):
     for letter in first:
         if letter in second:
             second.remove(letter)
-        else: 
+        else:
             return False
 
     return True
