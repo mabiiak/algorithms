@@ -14,15 +14,6 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 
 - Resolver problemas/Otimizar algoritmos sob pressão.
 
-<details>
-  <summary><strong>🗓 Data de Entrega</strong></summary><br />
-  
-  * Este projeto é `individual`;
-  * São `2` dias de projeto;
-  * Data para entrega final do projeto: `07/09/2022 14:00`.
-
-</details>
-
 # Desenvolvimento
 <details>
   <summary>
@@ -87,7 +78,7 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 </details>
 
 <details>
-  <summary><strong>🏕️ Ambiente Virtual</strong></summary><br />
+  <summary><strong>Ambiente Virtual</strong></summary><br />
   O Python oferece um recurso chamado de ambiente virtual que permite sua máquina rodar, sem conflitos, diferentes tipos de projetos com diferentes versões de bibliotecas.
 
   1. **criar o ambiente virtual**
@@ -117,7 +108,7 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 
 ## Requisitos
 
-## 1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca)
+### 1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca)
 
     ✅ 1.1 - Retorne a quantidade de estudantes presentes para uma entrada específica;
 
@@ -127,7 +118,7 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 
     ✅ 1.4 - A função deverá, por meio de análise empírica, se comportar (no avaliador remoto em sua Pull Request) como no máximo O(n), ou seja, com complexidade assintótica linear.
 
-## 2 - Palíndromos (Recursividade)
+### 2 - Palíndromos (Recursividade)
 
     ✅ 2.1 - Retorne `True` se a palavra passada por parâmetro for um palíndromo;
 
@@ -135,7 +126,7 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 
     ✅ 2.3 - Retorne `False` se nenhuma palavra for passada por parâmetro.
 
-## 3 - Anagramas (Algoritmo de ordenação)
+### 3 - Anagramas (Algoritmo de ordenação)
 
     ✅ 3.1 - Retorne `True` se as palavras passadas por parâmetro forem anagramas;
 
@@ -147,9 +138,7 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 
     ✅ 3.5 - Retorne `True` se as palavras passadas forem anagramas sem diferenciar maiúsculas e minúsculas.
 
-# Bônus
-
-## 4 - Encontrando números repetidos (Algoritmo de busca)
+### 4 - Encontrando números repetidos (Algoritmo de busca)
 
     ✅ 4.1 - Retorne o número repetivo se a função receber como parâmetro uma lista com números repetidos;
 
@@ -165,7 +154,7 @@ Projeto feito durante o curso de desenvolvimento web na trybe.
 
     ✅ 4.7 - A função deverá, por meio de análise empírica, se comportar (no avaliador remoto em sua Pull Request) como no máximo O(n log n), ou seja, com complexidade assintótica linearítmica.
 
-## 5 - Palíndromos (Iteratividade)
+### 5 - Palíndromos (Iteratividade)
 
     ✅ 5.1 - Retorne `True` se a palavra passada como parâmetro for um palíndromo, executando uma função iterativa;
 
